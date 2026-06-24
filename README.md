@@ -1,2 +1,2 @@
-# mohdsyuk88.github.io
-mohdsyuk88.github.io
+# github.io
+github.io
